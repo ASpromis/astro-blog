@@ -15,9 +15,9 @@ curl -fsSL https://bun.sh/install | bash
 ```
 
 ### bun 镜像加速
-Create a `~/.bunfig.toml` with the following content.
+创建 `~/.bunfig.toml`：
 
-https://registry.npmmirror.com is Alibaba's mirror site.
+镜像在 https://registry.npmmirror.com
 
 ```toml
 [install]
@@ -31,4 +31,5 @@ bun install
 bun dev
 ```
 
-## 3. vercel.com 获取免费域名
+## 3. vercel 获取免费域名
+直接登录 `vercel.com` 从 github import 仓库，支持自动 pull & push
