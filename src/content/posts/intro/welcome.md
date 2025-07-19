@@ -3,7 +3,7 @@ title: Welcome Astro
 published: 2025-07-20
 tags: [Blog]
 category: Examples
-draft: true
+draft: false
 ---
 
 # Astro 建立网站流程
